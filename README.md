@@ -4,9 +4,9 @@ Repositório criado pelo **GRUPO 06** como Proposta de Atividade Avaliativa Parc
 | Discente                  | Matrícula |
 |-------------------------|-----------|
 | Antonio Anastacio de Sousa Silva | 2315382 |
+| Fernando Ricardo Rodrigues da Costa | 2315382 |
 | Raimundo Bruno Gomes Santiago | 2315382 |
 | Lucas Cavalcante dos Santos | 2315382 |
-| Fernando Ricardo Rodrigues da Costa | 2315382 |
 
 # Lista de Tarefas (To-Do List)
 

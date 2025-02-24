@@ -50,14 +50,16 @@ def main():
     todo_list.add_task("Fazer compras")
     todo_list.add_task("Ler um livro")
 
-    # Exibindo tarefas
+    # Exibindo a lista de tarefas
     todo_list.show_tasks()
 
     # Removendo uma tarefa
     todo_list.remove_task("Fazer compras")
+
+    # Reexibindo a lista de tarefas
     todo_list.show_tasks()
 
-    # Usando uma função lambda para filtrar tarefas que contêm a palavra "Estudar" (Função Lambda)
+    # Usando uma Função Lambda para filtrar tarefas que contêm a palavra "Estudar" (Função Lambda)
     filtered_tasks = todo_list.filter_tasks(lambda task: "Estudar" in task)
     print("Tarefas filtradas:", filtered_tasks)
 
