@@ -1,5 +1,12 @@
-# PROGRAMACAO-FUCIONAL
-Repositório criado pelo GRUPO 06 para a Proposta de Atividade Parcial da Disciplina de Programação Funcional (N704) do Curso de Análise e Desenvolvimento de Sistemas da UNIFOR.
+# Proposta de Atividade Avaliativa Parcial
+Repositório criado pelo **GRUPO 06** como Proposta de Atividade Avaliativa Parcial da Disciplina de Programação Funcional (N704) do Curso de Análise e Desenvolvimento de Sistemas da UNIFOR.
+
+| Discente                  | Matrícula |
+|-------------------------|-----------|
+| Antonio Anastacio de Sousa Silva | 2315382 |
+| Raimundo Bruno Gomes Santiago | 2315382 |
+| Lucas Cavalcante dos Santos | 2315382 |
+| Fernando Ricardo Rodrigues da Costa | 2315382 |
 
 # Lista de Tarefas (To-Do List)
 
