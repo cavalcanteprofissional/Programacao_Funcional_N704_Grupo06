@@ -1,5 +1,5 @@
 # Proposta de Atividade Avaliativa Parcial
-Repositório criado pelo **GRUPO 06** como Proposta de Atividade Avaliativa Parcial da Disciplina de Programação Funcional (N704) do Curso de Análise e Desenvolvimento de Sistemas da UNIFOR.
+Repositório criado pelo **GRUPO 05** como Proposta de Atividade Avaliativa Parcial da Disciplina de Programação Funcional (N704) do Curso de Análise e Desenvolvimento de Sistemas da UNIFOR.
 
 | Discente                  | Matrícula |
 |-------------------------|-----------|
