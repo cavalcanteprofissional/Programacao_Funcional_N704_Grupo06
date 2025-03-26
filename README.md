@@ -5,6 +5,7 @@ Repositório criado pelo **GRUPO 05** como Proposta de Atividade Avaliativa Parc
 |-------------------------|-----------|
 | Antonio Anastacio de Sousa Silva | 2319190 |
 | Fernando Ricardo Rodrigues da Costa | 2317576 |
+| JOHN GOES MONTEIRO | 2122704 |
 | Lucas Cavalcante dos Santos | 2315382 |
 | Raimundo Bruno Gomes Santiago | 2213922 |
 
